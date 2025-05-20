@@ -2,7 +2,7 @@
 
 Level up your battles with the **Anime Saga OP Script**, a sleek and simple **keyless tool** built for nonstop action. With automated attacking, skill usage, and mob targeting, you'll farm faster and dominate every encounter in *Anime Saga*.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/-Anime-Saga-OP-script-keyless/blob/main/Anime%20Saga%20OP%20Script%20-%20Keyless%20Combat%20Automation%20.png)
 
 ---
 
